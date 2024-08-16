@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../stylo.pk"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "zeroLifestyle.pk"
+	}
+}
